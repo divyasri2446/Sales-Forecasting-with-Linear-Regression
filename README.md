@@ -54,7 +54,7 @@ A screen recording with voice-over explains:
 - Model training and prediction
 - Interpretation of outputs and forecast results
 
-🎥 Included file: `sales_forecasting_demo.mp4`
+🎥 Included file: `salesforecasting.mp4`
 
 ---
 
